@@ -1,3 +1,1 @@
-### Node Crash Course
----
-- Node tutorial
+# Node Crash Course
